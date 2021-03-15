@@ -1,3 +1,4 @@
+LOCAL
 # Challenge-Merge-and-Conflits
 
 je vais bientôt savoir gérer des conflits !
